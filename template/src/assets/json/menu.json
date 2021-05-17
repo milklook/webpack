@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1",
+    "parentId": "0",
+    "title": "出口申报管理",
+    "icon": "el-icon-guide",
+    "path": null,
+    "children": [
+      {
+        "id": "1-1",
+        "parentId": "1",
+        "title": "申报信息审核",
+        "icon": null,
+        "path": "/demo/list",
+        "children": []
+      }
+    ]
+  }
+]
